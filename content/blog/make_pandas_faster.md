@@ -52,3 +52,4 @@ Pandas로 반복 작업을 하다가 시간이 엄청 긴 코드를 발견할 �
 
 [](https://towardsdatascience.com/understanding-the-need-for-optimization-when-using-pandas-8ce23b83330c)
 [](https://imasoftwareengineer.tistory.com/43)
+
